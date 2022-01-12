@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python and its libraries
 - 💞️ I’m looking to collaborate on whatever, quit honestly
 - 📫 How to reach me: @ethanol_C2H5OH at Telegram
-- Tabs are superior to 4 spaces
+- Tabs are superior
+- Can't come up with a decent pet project :(
 
 <!---
 ExplodingBanana/ExplodingBanana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
