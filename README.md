@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @ExplodingBanana
+- 👀 I’m interested in cool technologies and hardcore machine-level stuff. I'm a man of extremes, you see.
+- 🌱 I’m currently learning Python and its libraries
+- 💞️ I’m looking to collaborate on whatever, quit honestly
+- 📫 How to reach me: @ethanol_C2H5OH at Telegram
+- Tabs are superior to 4 spaces
+
+<!---
+ExplodingBanana/ExplodingBanana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
